@@ -12,7 +12,7 @@
   "dependencies": {
     "@uirouter/angularjs": "^1.0.13",
     "amcharts3": "^3.21.2",
-    "angular": "^1.4.1",
+    "angular": "^1.8.3",
     "angular-animate": "^1.4.1",
     "angular-cookies": "^1.4.1",
     "angular-loading-bar": "^0.7.1",
